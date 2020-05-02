@@ -49,6 +49,12 @@ Forked repositories list related to Continuous Integration Tools
 ## Forked IaC Repositories
 Forked repositories list related to IaC
 
+### dapr_IaC
+
+- **Author** : [Dapr](https://dapr.io)
+- **Github** : [dapr](https://github.com/dapr)
+- **Repository** : [dapr](https://github.com/dapr/dapr)
+
 ### docker-installer_IaC
 
 - **Author** : [Docker](https://www.docker.com) - [get-docker](https://get.docker.com)

@@ -10,6 +10,12 @@ Forked repositories list related to Continuous Integration Tools
 - **Github** : [cake-build](https://github.com/cake-build)
 - **Repository** : [cake](https://github.com/cake-build/cake)
 
+### dotnet-baget_CI
+
+- **Author** : [Loïc Sharma](https://loic-sharma.github.io) - [BaGet](https://loic-sharma.github.io/BaGet)
+- **Github** : [loic-sharma](https://github.com/loic-sharma)
+- **Repository** : [BaGet](https://github.com/loic-sharma/BaGet)
+
 ### dotnet-tools_CI
 
 - **Author** : [Nate McMaster](https://natemcmaster.com)

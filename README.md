@@ -60,3 +60,69 @@ Forked repositories list related to IaC
 - **Author** : [Robert Peteuil](https://www.robertpeteuil.com) - [iac.sh](https://iac.sh)
 - **Github** : [robertpeteuil](https://github.com/robertpeteuil)
 - **Repository** : [terraform-installer](https://github.com/robertpeteuil/terraform-installer)
+
+## Forked Docker Image Repositories
+Forked repositories list related to Docker Images
+
+### cake-build_DI
+
+- **Author** : [Cake](https://cakebuild.net)
+- **Github** : [cake-build](https://github.com/cake-build)
+- **Repository** : [docker](https://github.com/cake-build/docker)
+- **DockerHub** : [cake](https://hub.docker.com/r/cakebuild/cake)
+
+### dotnet_DI
+
+- **Author** : [DotNet](https://dotnet.microsoft.com)
+- **Github** : [dotnet](https://github.com/dotnet)
+- **Repository** : [dotnet-docker](https://github.com/dotnet/dotnet-docker)
+- **DockerHub** : [microsoft-dotnet-core](https://hub.docker.com/_/microsoft-dotnet-core)
+
+### dotnet-tools_DI
+
+- **Author** : [DotNet](https://dotnet.microsoft.com)
+- **Github** : [dotnet](https://github.com/dotnet)
+- **Repository** : [docker-tools](https://github.com/dotnet/docker-tools)
+- **DockerHub** : [-](https://hub.docker.com/_/microsoft-dotnet-core)
+
+### git-version_DI
+
+- **Author** : [GitTools](https://gitversion.net) - [GitTools-2](https://gittools.github.io/GitReleaseManager/docs/) - [Semantic Versioning](https://semver.org/)
+- **Github** : [GitTools](https://github.com/GitTools)
+- **Repository** : [build-images](https://github.com/GitTools/build-images)
+- **DockerHub** : [-](-)
+
+### jenkins_DI
+
+- **Author** : [Jenkins](https://www.jenkins.io)
+- **Github** : [jenkinsci](https://github.com/jenkinsci)
+- **Repository** : [docker](https://github.com/jenkinsci/docker)
+- **DockerHub** : [jenkins](https://hub.docker.com/r/jenkins/jenkins)
+
+### jenkins-agent_DI
+
+- **Author** : [Jenkins](https://www.jenkins.io)
+- **Github** : [jenkinsci](https://github.com/jenkinsci)
+- **Repository** : [docker-agent](https://github.com/jenkinsci/docker-agent)
+- **DockerHub** : [agent](https://hub.docker.com/r/jenkins/agent)
+
+### jenkins-inbound-agent_DI
+
+- **Author** : [Jenkins](https://www.jenkins.io)
+- **Github** : [jenkinsci](https://github.com/jenkinsci)
+- **Repository** : [docker-inbound-agent](https://github.com/jenkinsci/docker-inbound-agent)
+- **DockerHub** : [inbound-agent](https://hub.docker.com/r/jenkins/inbound-agent)
+
+### jenkins-jnlp-agents_DI
+
+- **Author** : [Jenkins](https://www.jenkins.io)
+- **Github** : [jenkinsci](https://github.com/jenkinsci)
+- **Repository** : [jnlp-agents](https://github.com/jenkinsci/jnlp-agents)
+- **DockerHub** : [jnlp-agents](https://hub.docker.com/r/jenkins/jnlp-agents)
+
+### jenkins-ssh-agent_DI
+
+- **Author** : [Jenkins](https://www.jenkins.io)
+- **Github** : [jenkinsci](https://github.com/jenkinsci)
+- **Repository** : [docker-ssh-agent](https://github.com/jenkinsci/docker-ssh-agent)
+- **DockerHub** : [ssh-agent](https://hub.docker.com/repository/docker/jenkins/ssh-agent)

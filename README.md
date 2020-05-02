@@ -39,3 +39,24 @@ Forked repositories list related to Continuous Integration Tools
 - **Author** : [GitTools](https://gitversion.net) - [Semantic Versioning](https://semver.org) - [GitTools-2](https://gittools.github.io/GitReleaseManager/docs) 
 - **Github** : [GitTools](https://github.com/GitTools)
 - **Repository** : [GitVersion](https://github.com/GitTools/GitVersion)
+
+## Forked IaC Repositories
+Forked repositories list related to IaC
+
+### docker-installer_IaC
+
+- **Author** : [Docker](https://www.docker.com) - [get-docker](https://get.docker.com)
+- **Github** : [docker](https://github.com/docker)
+- **Repository** : [docker-install](https://github.com/docker/docker-install)
+
+### packer-installer_IaC
+
+- **Author** : [Robert Peteuil](https://www.robertpeteuil.com) - [iac.sh](https://iac.sh)
+- **Github** : [robertpeteuil](https://github.com/robertpeteuil)
+- **Repository** : [packer-installer](https://github.com/robertpeteuil/packer-installer)
+
+### terraform-installer_IaC
+
+- **Author** : [Robert Peteuil](https://www.robertpeteuil.com) - [iac.sh](https://iac.sh)
+- **Github** : [robertpeteuil](https://github.com/robertpeteuil)
+- **Repository** : [terraform-installer](https://github.com/robertpeteuil/terraform-installer)
